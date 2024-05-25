@@ -4787,7 +4787,7 @@
     "setuptools"
   ],
   "decli": [
-    "setuptools"
+    "poetry-core"
   ],
   "decopatch": [
     "setuptools",
